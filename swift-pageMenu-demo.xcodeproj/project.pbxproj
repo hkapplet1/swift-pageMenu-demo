@@ -224,13 +224,16 @@
 					7B004A821CAF9F40008CAC40 = {
 						CreatedOnToolsVersion = 7.3;
 						DevelopmentTeam = 87VK78GA5P;
+						LastSwiftMigration = 0830;
 					};
 					7B004A961CAF9F40008CAC40 = {
 						CreatedOnToolsVersion = 7.3;
+						LastSwiftMigration = 0830;
 						TestTargetID = 7B004A821CAF9F40008CAC40;
 					};
 					7B004AA11CAF9F40008CAC40 = {
 						CreatedOnToolsVersion = 7.3;
+						LastSwiftMigration = 0830;
 						TestTargetID = 7B004A821CAF9F40008CAC40;
 					};
 				};
@@ -489,6 +492,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "com.nswbmw.swift-pageMenu-demo.swift-pageMenu-demo";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
+				SWIFT_VERSION = 3.0;
 			};
 			name = Debug;
 		};
@@ -504,6 +508,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "com.nswbmw.swift-pageMenu-demo.swift-pageMenu-demo";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
+				SWIFT_VERSION = 3.0;
 			};
 			name = Release;
 		};
@@ -515,6 +520,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.nswbmw.swift-pageMenu-demo.swift-pageMenu-demoTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/swift-pageMenu-demo.app/swift-pageMenu-demo";
 			};
 			name = Debug;
@@ -527,6 +533,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.nswbmw.swift-pageMenu-demo.swift-pageMenu-demoTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/swift-pageMenu-demo.app/swift-pageMenu-demo";
 			};
 			name = Release;
@@ -538,6 +545,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.nswbmw.swift-pageMenu-demo.swift-pageMenu-demoUITests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
 				TEST_TARGET_NAME = "swift-pageMenu-demo";
 			};
 			name = Debug;
@@ -549,6 +557,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.nswbmw.swift-pageMenu-demo.swift-pageMenu-demoUITests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
 				TEST_TARGET_NAME = "swift-pageMenu-demo";
 			};
 			name = Release;
